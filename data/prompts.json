@@ -1,0 +1,203 @@
+[
+    {
+      "prompt": "Write a cover letter for a software engineer position.",
+      "label": "generation"
+    },
+    {
+      "prompt": "Dear [Hiring Manager's Name], I am writing to express my interest in the [Job Title] position at [Company Name].",
+      "label": "completion"
+    },
+    {
+      "prompt": "As a software engineer, I have developed innovative solutions for complex problems using various programming languages and frameworks. Can you share your experience working on a challenging software development project?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "Generate a cover letter for a marketing internship.",
+      "label": "generation"
+    },
+    {
+      "prompt": "In my previous role as a marketing intern, I gained hands-on experience in creating engaging social media campaigns and conducting market research. What marketing projects have you worked on during your internship?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "What should be the ideal length of a cover letter? How long should it typically be?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "Write a cover letter for a sales representative position.",
+      "label": "generation"
+    },
+    {
+      "prompt": "Dear [Company Name] team, I am excited to apply for the [Job Title] position and leverage my strong communication and negotiation skills to drive sales growth. How have you demonstrated your sales skills in previous roles?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "What is the purpose of a cover letter? Why is it important?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "Generate a cover letter for an administrative assistant role.",
+      "label": "generation"
+    },
+    {
+      "prompt": "In my previous role as an administrative assistant, I efficiently managed office operations and supported executives in their daily tasks. Can you describe a challenging administrative task you handled successfully?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "What is the recommended structure for a cover letter? How should it be organized?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "Write a cover letter for a graphic designer position.",
+      "label": "generation"
+    },
+    {
+      "prompt": "Dear Hiring Team, I am writing to apply for the [Job Title] position and showcase my creative design skills through a strong portfolio. How have you utilized your design skills to solve a specific problem?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "What are some effective ways to personalize a cover letter? How can you make it specific to the company?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "Generate a cover letter for a customer service representative role.",
+      "label": "generation"
+    },
+    {
+      "prompt": "In my previous role as a customer service representative, I consistently provided exceptional support to customers and resolved their issues promptly. Can you share an experience where you went above and beyond to satisfy a customer?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "What are the common mistakes to avoid in a cover letter? What should you be careful about?",
+      "label": "question-answer"
+    },
+    {
+      "prompt": "Write a cover letter for a data analyst position.",
+      "label": "generation"
+    },
+    {
+      "prompt": "Dear [Recruiter's Name], I am excited to apply for the [Job Title] position and utilize my analytical skills to uncover insights from complex datasets. How have you applied data analysis techniques to solve a specific problem?",
+      "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a software engineer position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Hiring Manager's Name], I am writing to express my strong interest in the software engineer position at [Company Name]. With a solid background in computer science and hands-on experience in developing scalable and efficient software solutions, I am confident in my ability to contribute to your team. Can you share a recent project where you utilized your software engineering skills?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Generate a cover letter for a marketing internship.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Company Name] Hiring Team, I am excited to apply for the marketing internship position and contribute to your dynamic marketing campaigns. Through my coursework in marketing and my previous internship experience, I have gained a strong foundation in digital marketing strategies and analytics. How have you applied your marketing knowledge to achieve measurable results?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a sales representative position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Hiring Manager's Name], As a dedicated and results-driven sales professional, I am thrilled to apply for the sales representative position at [Company Name]. With a proven track record of exceeding sales targets and a deep understanding of the sales process, I am confident in my ability to drive revenue growth. Can you provide an example of a challenging sales situation you successfully navigated?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Generate a cover letter for an administrative assistant role.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Recruiter's Name], I am writing to express my keen interest in the administrative assistant position at [Company Name]. With my strong organizational skills and attention to detail, I am well-equipped to handle various administrative tasks and support the smooth functioning of your office. How have you managed competing priorities and maintained a high level of accuracy in your administrative work?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a graphic designer position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Design Manager's Name], I am thrilled to apply for the graphic designer position at [Company Name]. With a passion for visual storytelling and expertise in various design software, I am confident in my ability to create impactful designs that communicate the brand's message. Can you share a project where you faced design challenges and how you overcame them?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Generate a cover letter for a customer service representative role.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear Hiring Team, I am writing to express my enthusiasm for the customer service representative position at [Company Name]. With a strong focus on providing exceptional customer experiences and resolving issues promptly, I am well-prepared to contribute to your team's success. How do you handle difficult customer situations and ensure customer satisfaction?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a data analyst position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Recruiter's Name], I am excited to apply for the data analyst position at [Company Name]. With a deep understanding of statistical analysis and proficiency in data visualization tools, I am confident in my ability to extract meaningful insights from complex datasets. Can you share a project where you leveraged data analysis to drive strategic decision-making?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Generate a cover letter for a project manager role.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Hiring Manager's Name], I am writing to express my interest in the project manager position at [Company Name]. With a strong background in project management methodologies and a proven track record of delivering projects on time and within budget, I am confident in my ability to drive successful project outcomes. How do you ensure effective communication and collaboration within cross-functional project teams?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a financial analyst position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear Hiring Committee, I am excited to apply for the financial analyst position at [Company Name]. With a strong foundation in financial analysis and expertise in financial modeling and forecasting, I am well-equipped to provide valuable insights to support informed business decisions. How do you stay updated with industry trends and ensure accurate financial analysis?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Generate a cover letter for a human resources assistant role.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [HR Manager's Name], I am writing to apply for the human resources assistant position at [Company Name]. With a passion for supporting the development and engagement of employees, I am confident in my ability to contribute to the success of your HR initiatives. How do you ensure effective employee onboarding and foster a positive work culture?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a software developer position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Hiring Manager's Name], I am excited to apply for the software developer position at [Company Name]. With a strong proficiency in multiple programming languages and a passion for solving complex problems, I am confident in my ability to develop innovative software solutions. Can you share a challenging software development project you worked on and how you addressed the technical complexities?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Generate a cover letter for a sales manager position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Company Name] Hiring Team, I am writing to express my interest in the sales manager position. With a proven track record of leading high-performance sales teams and a strategic approach to sales planning, I am confident in my ability to drive sales growth. How do you motivate and inspire your sales team to achieve targets?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a customer support representative position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear Hiring Manager, I am writing to apply for the customer support representative position at [Company Name]. With a strong customer-centric approach and excellent problem-solving skills, I am well-prepared to handle customer inquiries and provide prompt resolutions. How do you handle challenging customer interactions and maintain a high level of customer satisfaction?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Generate a cover letter for an executive assistant role.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Executive's Name], I am thrilled to apply for the executive assistant position at [Company Name]. With a proven ability to handle high-level administrative tasks and support senior executives, I am confident in my ability to contribute to your success. How do you manage multiple priorities and ensure efficient scheduling and coordination?",
+        "label": "question-answer"
+    },
+    {
+        "prompt": "Write a cover letter for a content writer position.",
+        "label": "generation"
+    },
+    {
+        "prompt": "Dear [Editor's Name], I am writing to express my interest in the content writer position at [Company Name]. With a passion for storytelling and a strong command of written communication, I am confident in my ability to create engaging and impactful content. Can you share a project where you had to adapt your writing style to a specific target audience?",
+        "label": "question-answer"
+    },
+    {     "prompt": "Dear [Hiring Manager's Name], I am writing to express my interest in the [Job Title] position at [Company Name].",      "label": "completion"    },    {      "prompt": "In my previous role as a software developer, I successfully completed several projects that required me to collaborate with cross-functional teams.",      "label": "completion"    },    {      "prompt": "Dear [Company Name] team, I am excited to apply for the [Job Title] position and contribute to your organization's growth.",      "label": "completion"    },    {      "prompt": "As an experienced project manager, I have successfully delivered complex projects within tight deadlines and budget constraints.",      "label": "completion"    },    {      "prompt": "During my tenure as a software engineer at [Previous Company], I consistently delivered high-quality code and contributed to the successful launch of several products.",      "label": "completion"    },    {      "prompt": "Dear [Recruiter's Name], I am excited to apply for the [Job Title] position and contribute to the growth of [Company Name].",      "label": "completion"    },    {      "prompt": "As a sales professional with a proven track record of exceeding targets, I am confident in my ability to drive revenue growth and build strong client relationships.",      "label": "completion"    },    {      "prompt": "Dear Hiring Team, I am writing to apply for the [Job Title] opportunity at [Company Name].",      "label": "completion"    },    {      "prompt": "During my internship at [Company Name], I gained valuable experience in handling administrative tasks and supporting team members.",      "label": "completion"    },    {      "prompt": "Dear [Company Name] Hiring Team, I am writing to express my interest in the [Job Title] opportunity.",      "label": "completion"    },    {      "prompt": "In my previous role as a content writer, I consistently delivered engaging and well-researched articles that drove website traffic and increased user engagement.",      "label": "completion"    },    {      "prompt": "Dear Hiring Manager, I am writing to express my interest in the [Job Title] role at [Company Name].",      "label": "completion"    },    {      "prompt": "In my previous role as an executive assistant, I effectively managed complex schedules and coordinated high-level meetings.",      "label": "completion"    },    {      "prompt": "During my internship at [Company Name], I gained hands-on experience in conducting market research and analyzing consumer behavior.",      "label": "completion"    },    {      "prompt": "Dear [Department Name] Hiring Committee, I am excited to apply for the [Job Title] position and contribute to the success of [Company Name].",      "label": "completion"    }
+]
